@@ -1,5 +1,7 @@
 # basicPythonVotingSystem
 A basic python voting system
+
+
 ![p8_1](https://user-images.githubusercontent.com/58290134/126954569-00fcb092-8a14-4d60-aec7-661c6e19f90d.PNG)
 
 ![p8_2](https://user-images.githubusercontent.com/58290134/126954575-538e9d28-c690-4abf-8835-fc292adbf548.PNG)
